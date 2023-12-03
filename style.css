@@ -9,12 +9,12 @@
     padding: 0;
 }
 
-.portf_img {
-    width: auto;
-    object-fit: cover;
+.portf_title {
+    text-align: center;
+    justify-content: center;
+    margin: 0;
 }
 
-#portf_img {
-    width: auto;
-    object-fit: cover;
+h1 {
+    text-align: center;
 }
