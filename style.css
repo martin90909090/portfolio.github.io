@@ -10,8 +10,7 @@
 }
 
 .portf_title {
-    text-align: center;
-    justify-content: center;
+    display: flex;
     margin: 0;
 }
 
