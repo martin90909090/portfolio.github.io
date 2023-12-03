@@ -17,3 +17,49 @@
 h1 {
     text-align: center;
 }
+
+.navbar-nav {
+    font-weight: lighter;
+    margin: 0;
+}
+
+.btn {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    opacity: 100%;
+    color: #212529;
+    border: #DDDDDD;
+    border-radius: 4px 4px 4px 4px;
+    background-color: #F8F9FA;
+    height: 40px;
+    width: 112px;
+}
+
+.copyrights {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    margin: 0;
+}
+
+#form_title {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+#form_button {
+    text-align: center;
+}
+
+#copyrights {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #707070;
+    margin: 22px 0;
+}
+
+footer {
+    padding: 40px;
+    width: 100%;
+    box-sizing: border-box;
+}
